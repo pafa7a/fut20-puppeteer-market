@@ -1,0 +1,22 @@
+{
+  "name": "fut20-puppeteer-market",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavel-propeople/fut20-puppeteer-market.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavel-propeople/fut20-puppeteer-market/issues"
+  },
+  "homepage": "https://github.com/pavel-propeople/fut20-puppeteer-market#readme",
+  "dependencies": {
+    "puppeteer": "^3.3.0"
+  }
+}
